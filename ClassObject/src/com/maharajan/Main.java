@@ -11,5 +11,6 @@ public class Main {
         VipCustomer vipCustomer = new VipCustomer("Maha", "maha@gmail.com");
         System.out.println("VipCustomer credit limit = " + vipCustomer.getCreditLimit());
         System.out.println("VipCustomer name limit = " + vipCustomer.getName());
+        System.out.println("VipCustomer name limit = " + vipCustomer.getName());
     }
 }
